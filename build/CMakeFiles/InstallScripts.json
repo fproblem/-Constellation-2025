@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"I:/C++/constellation/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

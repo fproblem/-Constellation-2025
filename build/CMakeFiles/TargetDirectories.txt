@@ -1,0 +1,3 @@
+I:/C++/constellation/build/CMakeFiles/CONSTELLATION.dir
+I:/C++/constellation/build/CMakeFiles/edit_cache.dir
+I:/C++/constellation/build/CMakeFiles/rebuild_cache.dir
